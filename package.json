@@ -5,7 +5,9 @@
   "author": "Mattan Ingram, Miles Ingram",
   "dependencies": {},
   "devDependencies": {
-    "gulp": "~3.8.10"
+    "gulp": "~3.8.10",
+    "gulp-sass": "~1.2.4",
+    "gulp-livereload": "~3.0.2"
   },
   "licenses": [
     {

@@ -2,9 +2,7 @@
 tweetSwag
 Version 0.0.1
 */
-
 /* __________________________ IMPORTS ___________________________ */
-
-@import "../../bower_components/bourbon/dist/bourbon";
-
-@import "main";
+p {
+  color: red;
+  font-size: 90px; }
