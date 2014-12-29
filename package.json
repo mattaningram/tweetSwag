@@ -1,0 +1,16 @@
+{
+  "name": "tweetSwag",
+  "description": "Buy stuff from your tweets!",
+  "version": "0.0.1",
+  "author": "Mattan Ingram, Miles Ingram",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.8.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ]
+}
